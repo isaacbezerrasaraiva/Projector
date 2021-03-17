@@ -20,4 +20,10 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Components\Controls\" />
+    <Folder Include="Components\UserControls\" />
+    <Folder Include="Components\Window\" />
+  </ItemGroup>
+
 </Project>
